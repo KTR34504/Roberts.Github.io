@@ -6,4 +6,5 @@
 #
 layout: home
 ---
-<h1> Welcome to my Github Page </h1>
+<h1> Hello and Welcome to my GitHub Page! </h1>
+<p> I will be taking you through the projects I have completed and outlining the experience I've gained from them. </p>
