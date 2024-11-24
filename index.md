@@ -6,9 +6,9 @@
 #
 layout: home
 ---
-<h1> Hello and Welcome to my GitHub Page! </h1>
+<h1 style="text-align: center;">Hello and Welcome to my GitHub Page!</h1>
 <p> I will be taking you through the projects I have completed and outlining the experience I've gained from them. </p>
 
 <h2> Network Security </h2>
 <img src="SIEM.png" alt="My Image" style="width: 300%; height: auto;">
-
+<p> (Zoom for a better view.) </p> 
