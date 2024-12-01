@@ -10,6 +10,6 @@ layout: home
 <p> I will be taking you through the projects I have completed and outlining the experience I've gained from them. </p>
 
 <h2> Network Security </h2>
-<img src="SIEM.png" alt="My Image" height="400" width="1500">
+<img src="SIEM.png" alt="My Image" height="600" width="2500">
 <p style="text-align: center;"> (Zoom for a better view.) </p> 
 <p> I built my own SIEM through Microsoft Azure. I then added Microsoft Sentinel and set security rules to generate alerts for malicious activity that it may pick up. This sharpened my knowledge and familiarity with security tools and mitigation, preparing me to recognize and remediate threats to a network, system, or Web server. </p>
