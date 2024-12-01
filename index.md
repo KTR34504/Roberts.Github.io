@@ -9,7 +9,10 @@ layout: home
 <h1 style="text-align: center;">Hello and Welcome to my GitHub Page!</h1>
 <p> I will be taking you through the projects I have completed and outlining the experience I've gained from them. </p>
 
-<h2> Network Security </h2>
-<img src="SIEM.png" alt="My Image" height="450" width="3500">
+<h2> Network Infrastructure </h2>
+<img src="Complete Network.png" height="600" width="2000"> <img src="Staff.png" height="550" width="2000"> 
+<p> </p>
+<h3> Network Security </h3>
+<img src="SIEM.png" alt="My Image" height="425" width="3500">
 <p style="text-align: center;"> (Zoom for a better view.) </p> 
 <p> I built my own SIEM through Microsoft Azure. I then added Microsoft Sentinel and set security rules to generate alerts for malicious activity that it may pick up. This sharpened my knowledge and familiarity with security tools and mitigation, preparing me to recognize and remediate threats to a network, system, or Web server. </p>
