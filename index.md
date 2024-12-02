@@ -15,4 +15,8 @@ layout: home
 <h3> Network Security </h3>
 <img src="SIEM.png" alt="My Image" height="425" width="3500">
 <p style="text-align: center;"> (Zoom for a better view.) </p> 
-<p> I built my own SIEM through Microsoft Azure. I then added Microsoft Sentinel and set security rules to generate alerts for malicious activity that it may pick up. This sharpened my knowledge and familiarity with security tools and mitigation, preparing me to recognize and remediate network, system, or Web server threats. In the future, I plan to add MISP to the SIEM. </p>
+<p style="text-align: center;"> I built my own SIEM through Microsoft Azure. I then added Microsoft Sentinel and set security rules to generate alerts for malicious activity that it may pick up. This sharpened my knowledge and familiarity with security tools and mitigation, preparing me to recognize and remediate network, system, or Web server threats. In the future, I plan to add MISP to the SIEM. </p>
+<h4> Python </h4>
+<img src="pycharm.png" height="600" width="2000"> 
+<p style="text-align: center;"> For this project I used what I learned about Python to craft a simple game based on my favorite franchise "Dragon Ball Z". The goal of the game was to collect all the items and defeat the villain at the end, so i had to code in python a way to move between rooms as well as a way to collect, keep track of and use the items at the end to defeat the villain. </p>
+<h5> Misc </h5>
