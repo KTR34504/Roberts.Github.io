@@ -11,7 +11,10 @@ layout: home
 
 <h2> Network Infrastructure </h2>
 <img src="Complete Network.png" height="600" width="2000">  
-<p style="text-align: center;"> This project was assigned to me during my studies. This project aimed to set up a network from scratch and separate it into two networks using two different network management protocols. I set up the staff computers using the provided subnet masks and IP addresses </p>
+<p style="text-align: center;"> This project was assigned to me during my studies. This project aimed to set up a network from scratch and separate it into two networks using two different network management protocols. I set up the staff computers using the provided subnet masks and IP addresses (Link to download Packet Tracer) </p>
+<a href="CYB 210 Module Five Activity Packet Tracer.pkt" download>
+    Download Packet Tracer File
+</a>
 <h3> Network Security </h3>
 <img src="SIEM.png" alt="My Image" height="425" width="3500">
 <p style="text-align: center;"> (Zoom for a better view.) </p> 
