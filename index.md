@@ -23,3 +23,5 @@ layout: home
 <img src="pycharm.png" height="600" width="2000"> 
 <p style="text-align: center;"> For this project I used what I learned about Python to craft a simple game based on my favorite franchise "Dragon Ball Z". The goal of the game was to collect all the items and defeat the villain at the end, so i had to code in python a way to move between rooms as well as a way to collect, keep track of and use the items at the end to defeat the villain. </p>
 <h5> Misc </h5>
+<img src="Wireshark.png" height="600" width="2000"> 
+<p> In my studies there are other topics i gained surface level experianc with. The example ive given above is one assignment where i was taked with posing a an attacker and elevating my privalges withen a compromised network. </p>
